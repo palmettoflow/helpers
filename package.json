@@ -1,0 +1,21 @@
+{
+  "name": "pf-helpers",
+  "version": "1.0.0",
+  "description": "Palmetto Flow Event Message Helpers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tap test",
+    "build": "babel --presets es2015 src -d lib"
+  },
+  "author": "Tom",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13"
+  },
+  "dependencies": {
+    "moment": "^2.11.1",
+    "ramda": "^0.19.1",
+    "uuid": "^2.0.1"
+  }
+}
