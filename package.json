@@ -1,6 +1,6 @@
 {
   "name": "pf-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Palmetto Flow Event Message Helpers",
   "main": "lib/index.js",
   "scripts": {
