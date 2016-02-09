@@ -17,5 +17,13 @@
     "moment": "^2.11.1",
     "ramda": "^0.19.1",
     "uuid": "^2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmettoflow/helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/palmettoflow/helpers/issues"
+  },
+  "homepage": "https://github.com/palmettoflow/helpers#readme"
 }
